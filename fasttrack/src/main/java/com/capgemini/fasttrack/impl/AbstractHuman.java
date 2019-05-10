@@ -24,6 +24,12 @@ public class AbstractHuman implements Human {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	@Override
+	public Food cooking(float amount) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	public String getName() {
 		return name;
